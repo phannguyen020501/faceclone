@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653396353782",
+    "project_id": "face-b3d3d",
+    "storage_bucket": "face-b3d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653396353782:android:7c62449b1098fe9a3482d7",
+        "android_client_info": {
+          "package_name": "com.example.faceclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653396353782-lhu55ekr5q8nqoecvj46h6d5a1e60h10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtMe5HxVAnROcrX82ocmi4IwreYMZxFU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653396353782-lhu55ekr5q8nqoecvj46h6d5a1e60h10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
